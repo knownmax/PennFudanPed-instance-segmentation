@@ -53,6 +53,9 @@ cd data && unzip PennFudanPed.zip
 
 A Faster R-CNN (detection only, no masks) variant and a MobileNetV2-backbone option are also shown in the notebook for comparison.
 
+![Inference Results](inference_result.png)
+
+
 ## Requirements
 
 ```
